@@ -43,7 +43,7 @@ body {
 }
 
 .box {
-  background-color: #FCF3CF ;
+  background-color: red ;
   border-radius: 20px;
   font-family: sans-serif;
   text-align: center;
